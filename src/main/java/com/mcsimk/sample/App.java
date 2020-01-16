@@ -1,10 +1,10 @@
-package com.maksim.sample;
+package com.mcsimk.sample;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Guice;
 import com.google.inject.Module;
-import com.maksim.sample.rest.SampleController;
-import com.maksim.sample.config.modules.BootstrapPropertiesModule;
+import com.mcsimk.sample.rest.SampleController;
+import com.mcsimk.sample.config.modules.BootstrapPropertiesModule;
 import io.logz.guice.jersey.JerseyModule;
 import io.logz.guice.jersey.JerseyServer;
 import io.logz.guice.jersey.configuration.JerseyConfiguration;

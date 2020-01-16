@@ -1,4 +1,4 @@
-package com.maksim.sample.rest;
+package com.mcsimk.sample.rest;
 
 import javax.inject.Inject;
 import javax.inject.Named;

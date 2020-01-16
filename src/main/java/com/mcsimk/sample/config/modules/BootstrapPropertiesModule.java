@@ -1,4 +1,4 @@
-package com.maksim.sample.config.modules;
+package com.mcsimk.sample.config.modules;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

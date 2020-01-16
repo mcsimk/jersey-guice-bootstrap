@@ -1,4 +1,4 @@
-package com.maksim.sample.config.config;
+package com.mcsimk.sample.config.config;
 
 /**
  * Generic constants for Bootstrapping the WebApp
