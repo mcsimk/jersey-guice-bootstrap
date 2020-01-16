@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.maksim.sample.servlet.modules.BootstrapPropertiesModuleTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-01-16T20:47:21" hostname="zhq-01258.mynet" time="0.121">
+  <properties/>
+  <testcase name="should run" classname="com.maksim.sample.servlet.modules.BootstrapPropertiesModuleTest" time="0.121">
+    <failure message="Condition not satisfied:&#10;&#10;i == 2&#10;| |&#10;1 false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+i == 2
+| |
+1 false
+
+	at com.maksim.sample.servlet.modules.BootstrapPropertiesModuleTest.should run(BootstrapPropertiesModuleTest.groovy:12)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

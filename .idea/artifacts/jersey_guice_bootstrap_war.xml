@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jersey-guice-bootstrap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jersey-guice-bootstrap</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jersey-guice-bootstrap.war">
+      <element id="artifact" artifact-name="jersey-guice-bootstrap:war exploded" />
+    </root>
+  </artifact>
+</component>
