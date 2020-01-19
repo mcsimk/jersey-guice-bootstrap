@@ -16,7 +16,7 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         JerseyConfiguration configuration = JerseyConfiguration.builder()
-                .addPackage("com.maksim.sample.rest")
+                .addPackage("com.mcsimk.sample.rest")
                 .addPort(8080)
                 .build();
 
